@@ -1,3 +1,6 @@
+
+#!/bin/bash
+
 echo "script remoto" 
 
 echo "Actualizando sistema"
