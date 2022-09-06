@@ -2,7 +2,7 @@ echo "script remoto"
 
 echo "Actualizando sistema"
 
-apt update
+apt update -y 
 
 pause 2
 
